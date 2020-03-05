@@ -1,7 +1,6 @@
 # Author : Χρήστος Κωνσταντινίδης
 # Κωδικός: ΜΠΛ19029
 
-
 from tweepy import OAuthHandler
 from tweepy import API
 from tweepy import Cursor
@@ -10,7 +9,6 @@ import re
 
 NUM_OF_USERS = 2
 NUM_OF_TWEETS = 50
-
 
 # Εγκατάσταση του tweepy μέσα από την python
 #   *** python -m pip install tweepy ***
